@@ -144,5 +144,5 @@ This project is available for educational and learning purposes.
 
 ## 👤 Author
 
-Kazi Md. Naim Uddin
-GitHub: DipuKazi(https://github.com/DipuKazi)
+**Kazi Md. Naim Uddin**
+GitHub: [DipuKazi](https://github.com/DipuKazi)
